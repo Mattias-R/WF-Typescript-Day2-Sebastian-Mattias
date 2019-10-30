@@ -22,3 +22,5 @@ class worker extends Person {
 
 let peter = new worker("peter","73","teacher","1400","CodeFactory");
 document.write(peter.hello());
+
+//https://mdbootstrap.com/plugins/jquery/extended-cards/
